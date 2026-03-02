@@ -7,3 +7,5 @@ Now Solved Question list
 **108. Convert Sorted Array to Binary Search Tree**
 
 **700. Search in a Binary Search Tree**
+
+**701. Insert into a Binary Search Tree (medium)**
