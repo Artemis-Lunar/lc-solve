@@ -9,3 +9,5 @@ Now Solved Question list
 **700. Search in a Binary Search Tree**
 
 **701. Insert into a Binary Search Tree (medium)**
+
+**114. Flatten Binary Tree to Linked List (medimu)**
