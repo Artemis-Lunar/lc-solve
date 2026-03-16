@@ -11,3 +11,5 @@ Now Solved Question list
 **701. Insert into a Binary Search Tree (medium)**
 
 **114. Flatten Binary Tree to Linked List (medimu)**
+
+**347. Top K Frequent Elements (medimu)**
