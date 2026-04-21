@@ -19,3 +19,5 @@ Now Solved Question list
 **133. Clone Graph(medium)**
 
 **547. Number of Provinces(medium)**
+
+**684.Redundant Connection(medium)**
