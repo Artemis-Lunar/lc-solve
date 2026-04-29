@@ -21,3 +21,5 @@ Now Solved Question list
 **547. Number of Provinces(medium)**
 
 **684.Redundant Connection(medium)**
+
+**75. Sort Colors(medium)**
