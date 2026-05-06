@@ -23,3 +23,5 @@ Now Solved Question list
 **684.Redundant Connection(medium)**
 
 **75. Sort Colors(medium)**
+
+**230. Kth Smallest Element in a BST(medium)**
