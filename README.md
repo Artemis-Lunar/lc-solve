@@ -25,3 +25,5 @@ Now Solved Question list
 **75. Sort Colors(medium)**
 
 **230. Kth Smallest Element in a BST(medium)**
+
+**1038. Binary Searvh Tree To Greater Sum Tree(medium)**
